@@ -1,0 +1,39 @@
+:root {
+	/* Primary Colors */
+	--very-dk-mag: hsl(300, 43%, 22%);
+	--soft-pink: hsl(333, 80%, 67%);
+	
+	/* Neutral Colors */
+	--dk-gray-mag: hsl(303, 10%, 53%);
+	--lt-gray-mag: hsl(300, 24%, 96%);
+	--white: hsl(0, 0%, 100%);
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 0.9375rem;
+  font-family: 'League Spartan', sans-serif;
+}
+
+body {
+  width: 100%;
+  height: 100vh;
+  background: url()
+}
+
+.title-sec {
+	width: 33%;
+	height: 200px;
+	color: var(--very-dk-mag);
+}
+
+.title {
+	width: 80%;
+	font-size: 3rem;
+	margin-bottom: 30px;
+}
