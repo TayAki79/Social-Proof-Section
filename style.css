@@ -132,3 +132,16 @@ a {
 a:hover {
 	cursor: pointer;
 }
+
+@media screen and (max-width: 375px) {
+	.upper-container {
+		margin-top: 10%;
+		margin-bottom: 2%;
+		display: block;
+	}	
+}
+
+/*
+	1. Add a media query
+	2. Add pictures to the .review-section
+*/
