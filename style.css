@@ -83,3 +83,52 @@ li:last-of-type {
 	display: flex;
 	justify-content: space-between;
 }
+
+.review {
+	width: 290px;
+	height: 180px;
+	background-color: var(--very-dk-mag);
+	color: var(--white);
+	font-weight: 500;
+	font-size: 0.9rem;
+	border-radius: 8px;
+	padding: 30px 25px;
+}
+
+.name {
+	margin-bottom: 3px;	
+}
+
+.verified-buyer {
+	color: var(--soft-pink);
+	margin-bottom: 25px;
+}
+
+.lower-container {
+	display: flex;
+	justify-content: space-between;
+}
+
+.review:nth-of-type(2) {
+	margin-top: 15px;
+}
+
+.review:last-of-type {
+	margin-top: 30px;
+}
+
+.attribution {
+	margin-top: 50px;
+	text-align: center;
+	font-weight: 700;
+	color: var(--very-dk-mag);
+}
+
+a {
+	color: var(--soft-pink);
+	text-decoration: none;
+}
+
+a:hover {
+	cursor: pointer;
+}
