@@ -1,0 +1,4 @@
+1.  Putting two images in the background with css:
+    Use background-image property and two "url()" seperated by a comma, with background-position position the images following the same order you set the image-files
+
+2. 
