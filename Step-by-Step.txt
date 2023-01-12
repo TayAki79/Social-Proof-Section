@@ -1,0 +1,36 @@
+1. Put all the missing elements in the head element of the html file like links, meta etc.
+
+2. Create a style.css file and link it to the html page
+
+3. create a general html style:
+html {
+  box-sizing: border-box;
+  font-size: ???;
+}
+
+4. create a body style:
+body {
+  margin: 0;
+  font-family: ???;
+}
+
+5. setting the width and height of the body element. I start with the mobile first rule, so I set the max-width to 375px and min-height to 100vh
+
+6. set the margin to 0 auto in the body element and also padding to 20px. margin centers the body elements and padding give the body a left and right space
+
+7. give the body element's top and bottom padding 90px to add space on the top and bottom of the page
+
+8. Since most of the texts are centred I use the text-align property in the body element as well
+
+9. I try to figure out the different sections and plan out how many divs I need and how to structure it the best using pen and paper
+
+10. Write down all the texts and put them in the appropriate tag-elements 
+
+11. Adding all the image files needed
+
+12. I put the images for the background as a css background styling
+
+13. It's time to insert the divs and section elements
+
+14. setting classes to the elements for styling purposes beginning from top to bottom
+

@@ -1,4 +1,5 @@
 1.  Putting two images in the background with css:
     Use background-image property and two "url()" seperated by a comma, with background-position position the images following the same order you set the image-files
 
-2. 
+2. you can :root the fontsize as well (But I won't use it here since I don't know the exact font-sizes)
+

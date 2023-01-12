@@ -1,0 +1,52 @@
+:root {
+	/* ### Primary Colors */
+
+--very-dark-mag: hsl(300, 43%, 22%);
+--soft-pink: hsl(333, 80%, 67%);
+
+/* ### Neutral Colors */
+
+--dark-grayish-mag: hsl(303, 10%, 53%);
+--light-grayish-mag: hsl(300, 24%, 96%);
+--white: hsl(0, 0%, 100%);
+}
+
+html {
+	box-sizing: border-box;
+	font-size: 15px;
+}
+
+body {
+	max-width: 375px;
+	min-height: 100vh;
+	margin: 0 auto;
+	padding: 0 20px;
+	padding-top: 90px;
+	padding-bottom: 90px;
+	font-family: 'League Spartan', sans-serif;
+	text-align: center;
+	background-image: url(./images/bg-pattern-top-mobile.svg), url(./images/bg-pattern-bottom-mobile.svg);
+	background-position: top, bottom;
+	background-repeat: no-repeat;
+}
+
+/* Styling of the top section */
+
+h1 {
+	font-size: 50px;
+	color: var(--very-dark-mag);
+	text-align: ;
+}
+
+
+
+/* Footer section */
+
+.attribution {
+	font-size: 11px;
+	text-align: center;
+}
+
+.attribution a {
+	color: hsl(228, 45%, 44%);
+}
