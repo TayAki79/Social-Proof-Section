@@ -34,3 +34,4 @@ body {
 
 14. setting classes to the elements for styling purposes beginning from top to bottom
 
+15. I set and margin and padding to zero in a universal selector (*) to apply it to all elements so I have more control over the element's margin and padding
