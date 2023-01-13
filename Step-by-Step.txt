@@ -46,5 +46,9 @@ Now let's get to make the site responsive for the desktop version
 
 3. Now the top-section. I have to give the title-section and the star-ratings section a fix width.
 
+4. the title-section needs a text-align: left and the font-size needs to be bigger
+
+
+
 
 

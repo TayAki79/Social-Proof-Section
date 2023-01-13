@@ -6,3 +6,5 @@
 3. Media queries:
 a) If I set a max-width property all the values inside that media query will apply when the device's theoretically from size zero to the max-width value.
 b) If I set a min-width property all the values inside that media query will apply when the device's size is from min-width to the maxium size of your device's screen
+
+4. If there's margin or padding in the basic css style and I want to omit the margins and paddings in the media query I have to strictly set those values for the specific selectors to zero
