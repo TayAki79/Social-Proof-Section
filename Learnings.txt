@@ -3,3 +3,6 @@
 
 2. you can :root the fontsize as well (But I won't use it here since I don't know the exact font-sizes)
 
+3. Media queries:
+a) If I set a max-width property all the values inside that media query will apply when the device's theoretically from size zero to the max-width value.
+b) If I set a min-width property all the values inside that media query will apply when the device's size is from min-width to the maxium size of your device's screen

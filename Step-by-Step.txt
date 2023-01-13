@@ -34,4 +34,17 @@ body {
 
 14. setting classes to the elements for styling purposes beginning from top to bottom
 
-15. I set and margin and padding to zero in a universal selector (*) to apply it to all elements so I have more control over the element's margin and padding
+15. I set the margin and padding to zero in a universal selector (*) to apply it to all elements so I have more control over the element's margin and padding
+
+16. mobile version finished
+
+Now let's get to make the site responsive for the desktop version
+
+1. I make a media query and set the min-width as the breakpoint to 600px.
+
+2. The first thing I put in the query is the background image. Looks good.
+
+3. Now the top-section. I have to give the title-section and the star-ratings section a fix width.
+
+
+
