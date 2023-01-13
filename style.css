@@ -154,7 +154,8 @@ footer {
 		font-family: 'League Spartan', sans-serif;
 		text-align: center;
 		background-image: url(./images/bg-pattern-top-desktop.svg), url(./images/bg-pattern-bottom-desktop.svg);
-		background-position: 0% 0%, 70% 30%;
+		background-position: 0% 0%, 70% 100%;
+		background-size: 37%, 80%;
 		background-repeat: no-repeat;
 	}
 
