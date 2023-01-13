@@ -8,3 +8,5 @@ a) If I set a max-width property all the values inside that media query will app
 b) If I set a min-width property all the values inside that media query will apply when the device's size is from min-width to the maxium size of your device's screen
 
 4. If there's margin or padding in the basic css style and I want to omit the margins and paddings in the media query I have to strictly set those values for the specific selectors to zero
+
+5. If space-between as a flexbox property doesn't work because you need to adjust the space you'd rather use gap, row-gap or column gap to customize the space between flex items
